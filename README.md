@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upasanaprabhakar&show_icons=true&locale=en" alt="upasanaprabhakar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upasanaprabhakar&" alt="upasanaprabhakar" /></p>
+<img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=upasanaprabhakar" alt="upasanaprabhakar" />
