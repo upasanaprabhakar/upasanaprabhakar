@@ -2,20 +2,17 @@
 <h1 align="center">Hi 👋, I'm Upasana Prabhakar</h1>
 <h3 align="center">🚀 AI Intern @ Infosys | Aspiring Full-Stack MERN Developer | AI/ML Innovator | Crafting Scalable & Intelligent Web Apps”</h3>
 
+- 🔭 I’m currently working on <span style="font-size:16px;">[SentinelNet — AI-Powered Network Intrusion Detection System (NIDS)](https://github.com/SpringBoardMentor193s/SentinelNet/tree/upasana)</span>  
 
+- 🌱 I’m currently learning <span style="font-size:16px;">**Advanced MERN concepts (performance optimization, system design) · Machine Learning & Generative AI with Google Gemini API · Secure backend practices (JWT, authentication, scaling APIs)**</span>
 
+- 👯 I’m looking to collaborate on <span style="font-size:16px;">[Notes-App](https://github.com/upasanaprabhakar/Notes-App)</span>
 
-- 🔭 I’m currently working on [SentinelNet — AI-Powered Network Intrusion Detection System (NIDS)](https://github.com/SpringBoardMentor193s/SentinelNet/tree/upasana)
+- 📝 I regularly write articles on <span style="font-size:16px;">[https://medium.com/@upasanaprabhakar35](https://medium.com/@upasanaprabhakar35)</span>
 
-- 🌱 I’m currently learning **Advanced MERN concepts (performance optimization, system design) Machine Learning & Generative AI with Google Gemini API Secure backend practices (JWT, authentication, scaling APIs)**
+- 💬 Ask me about <span style="font-size:16px;">**MERN Stack Development, Scalable Web Apps, Data Structures & Algorithms, and AI/ML Basics**</span>
 
-- 👯 I’m looking to collaborate on [Notes-App](https://github.com/upasanaprabhakar/Notes-App)
-
-- 📝 I regularly write articles on [https://medium.com/@upasanaprabhakar35](https://medium.com/@upasanaprabhakar35)
-
-- 💬 Ask me about **MERN Stack Development, Scalable Web Apps, Data Structures & Algorithms, and AI/ML Basics**
-
-- 📫 How to reach me **upasanaprabhakar35@gmail.com**
+- 📫 How to reach me <span style="font-size:16px;">**upasanaprabhakar35@gmail.com**</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
