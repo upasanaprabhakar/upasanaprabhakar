@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Upasana Prabhakar</h1>
 <h3 align="center">🚀 AI Intern @ Infosys | Aspiring Full-Stack MERN Developer | AI/ML Innovator | Crafting Scalable & Intelligent Web Apps”</h3>
 
-- 🔭 I’m currently working on <span style="font-size:16px;">[SentinelNet — AI-Powered Network Intrusion Detection System (NIDS)](https://github.com/SpringBoardMentor193s/SentinelNet/tree/upasana)</span>  
+- 🔭 I’m currently working on <span style="font-size:18px;">[SentinelNet — AI-Powered Network Intrusion Detection System (NIDS)](https://github.com/SpringBoardMentor193s/SentinelNet/tree/upasana)</span>  
 
-- 🌱 I’m currently learning <span style="font-size:16px;">**Advanced MERN concepts (performance optimization, system design) · Machine Learning & Generative AI with Google Gemini API · Secure backend practices (JWT, authentication, scaling APIs)**</span>
+- 🌱 I’m currently learning <span style="font-size:18px;">**Advanced MERN concepts (performance optimization, system design) · Machine Learning & Generative AI with Google Gemini API · Secure backend practices (JWT, authentication, scaling APIs)**</span>
 
-- 👯 I’m looking to collaborate on <span style="font-size:16px;">[Notes-App](https://github.com/upasanaprabhakar/Notes-App)</span>
+- 👯 I’m looking to collaborate on <span style="font-size:18px;">[Notes-App](https://github.com/upasanaprabhakar/Notes-App)</span>
 
-- 📝 I regularly write articles on <span style="font-size:16px;">[https://medium.com/@upasanaprabhakar35](https://medium.com/@upasanaprabhakar35)</span>
+- 📝 I regularly write articles on <span style="font-size:18px;">[https://medium.com/@upasanaprabhakar35](https://medium.com/@upasanaprabhakar35)</span>
 
-- 💬 Ask me about <span style="font-size:16px;">**MERN Stack Development, Scalable Web Apps, Data Structures & Algorithms, and AI/ML Basics**</span>
+- 💬 Ask me about <span style="font-size:18px;">**MERN Stack Development, Scalable Web Apps, Data Structures & Algorithms, and AI/ML Basics**</span>
 
-- 📫 How to reach me <span style="font-size:16px;">**upasanaprabhakar35@gmail.com**</span>
+- 📫 How to reach me <span style="font-size:18px;">**upasanaprabhakar35@gmail.com**</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
