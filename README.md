@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/76/00/5a/76005a74232a061e7567d2d7df04eadb.gif" alt="MasterHead" width="1100" style="height:300px; object-fit:cover;" />
+<img src="https://i.pinimg.com/originals/76/00/5a/76005a74232a061e7567d2d7df04eadb.gif" alt="MasterHead" width="1100" style="height:280px; object-fit:cover;" />
 <h1 align="center">Hi 👋, I'm Upasana Prabhakar</h1>
 <h3 align="center">🚀 AI Intern @ Infosys | Aspiring Full-Stack MERN Developer | AI/ML Innovator | Crafting Scalable & Intelligent Web Apps”</h3>
 
