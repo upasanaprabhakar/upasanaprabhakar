@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Upasana Prabhakar</h1>
 <h3 align="center">🚀 AI Intern @ Infosys | Aspiring Full-Stack MERN Developer | AI/ML Innovator | Crafting Scalable & Intelligent Web Apps”</h3>
 
-- 🔭 I’m currently working on <span style="font-size:18px;">[SentinelNet — AI-Powered Network Intrusion Detection System (NIDS)](https://github.com/SpringBoardMentor193s/SentinelNet/tree/upasana)</span>  
+- 🔭 I’m currently working on <span style="font-size:18px;">[Skill-Sync — Connect • Learn • Grow](https://github.com/upasanaprabhakar/Skill-Sync)</span>  
 
 - 🌱 I’m currently learning <span style="font-size:18px;">**Advanced MERN concepts (performance optimization, system design) · Machine Learning & Generative AI with Google Gemini API · Secure backend practices (JWT, authentication, scaling APIs)**</span>
 
