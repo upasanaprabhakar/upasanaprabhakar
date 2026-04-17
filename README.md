@@ -23,7 +23,7 @@
 
 <br/>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -34,7 +34,7 @@
 - Reduced manual interview prep time by **60%** through role-specific AI suggestions and keyword gap detection
 - Implemented JWT auth with httpOnly refresh token rotation, rate limiting, and CORS across Vercel + Render + Neon PostgreSQL
 
----
+
 
 ### 🔹 [DataSense AI — Multi-Agent Data Dictionary Generator](https://datasense-ai-xi.vercel.app)
 > React · Node.js · Groq (Llama 3.3 70B) · Supabase · D3.js
@@ -43,7 +43,7 @@
 - Guardian auto-scores data quality (0–100) and detects PII across **11 categories** with GDPR risk classification
 - 🏆 **Top 7 at HackFest 2, GDG Cloud New Delhi among 500+ participants**
 
----
+
 
 ### 🔹 [SentinelNet — AI-Powered Network Intrusion Detection System](https://github.com/SpringBoardMentor193s/SentinelNet/tree/upasana)
 > Python · Scikit-learn · SMOTE · Pandas · NumPy
@@ -51,7 +51,7 @@
 - Built production-grade NIDS using ensemble ML models achieving high-accuracy threat detection
 - Reduced false positives by **25%** and improved detection speed by **30%** via SMOTE-based feature engineering
 
----
+
 
 <br/>
 
